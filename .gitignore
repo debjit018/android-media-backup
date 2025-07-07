@@ -1,0 +1,15 @@
+# Ignore logs and temporary scanned file lists
+backup.log
+image_list.txt
+video_list.txt
+audio_list.txt
+pdf_list.txt
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor/project files (add more if needed)
+.vscode/
+.idea/
+*.swp
